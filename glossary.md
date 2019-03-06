@@ -44,6 +44,15 @@ Overwatchにおける定番編成、2タンク2ヒーラー2アタッカーの�
   <p>出典: </p>
 </details>
 
+### ILIOS (いりおす)
+Overwatchのコントロールマップの一つ。　　
+ギリシャがモチーフとされており遺跡に古代のアーティファクトが眠っており、タロンが狙っている設定
+<details>
+  <summary>例文</summary>
+  <p>Ilios wellはオリホッグ安定</p>
+  <p>出典: </p>
+</details>
+
 ### ウンメ～！ (うんめー)
 上手なこと、あるいは美味であること。
 <details>
@@ -97,6 +106,15 @@ OverwatchのマップNumbaniにおけるルシオのセリフ「みんな自由�
 </details>
 
 ## は行
+
+### HANAMURA (はなむら)
+Overwatchのアサルトマップの一つ。　　
+ゲンジ、ハンゾーの実家。龍頭蛇尾の掛け軸がある。
+<details>
+  <summary>例文</summary>
+  <p>HANAMURAって火力が高いとどうしても門前カバディになるよねー</p>
+  <p>出典: </p>
+</details>
 
 ### ブープ (ぶーぷ)
 敵を吹き飛ばすこと。  
